@@ -1,4 +1,4 @@
-# Governance
+# Curio StableCoin Governance
 
 > This repository includes Polls and Executive proposals content.
 
@@ -16,7 +16,7 @@ For the **Executive voting**, the CGT must be placed on a special Voting contrac
 
 You must have any number of CGT tokens to participate in polls (tab Polling). You must select the poll and vote for the good option. For example, polling the community for the desired borrowing rate for a specific collateral type. Then the selected value can be submitted to the Executive voting (by Curio Team) for inclusion in the system. Also, using the Polling solved other issues regarding the growth of the ecosystem Curio StableCoin. It also resolves other issues regarding the growth of the Curio StableCoin ecosystem.  
 
-Note: to participate in the Polling voting, it is not necessary to have CGTs blocked on the Voting contract and create a Voting contract. It is enough to have any number of CGTs in your wallet.
+*Note: to participate in the Polling voting, it is not necessary to have CGTs blocked on the Voting contract and create a Voting contract. It is enough to have any number of CGTs in your wallet.*
 
 ### How votes are calculated in Polling
 

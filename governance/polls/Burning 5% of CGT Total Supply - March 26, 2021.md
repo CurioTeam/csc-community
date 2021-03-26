@@ -9,6 +9,8 @@ options:
    1: Yes
    2: No
 ---
+# Poll: Burning 5% of CGT Total Supply - March 26, 2021
+
 Curio Team have placed a community poll into the Curio StableCoin voting system. This community poll will be active for 3 days beginning from March 26, 2021.
 
 This is a binary vote. In a binary vote, you may vote for a single option. You should vote for the option which you prefer. Alternatively, if you would accept either of the two options and have no preference between them, you should vote 'Abstain'.

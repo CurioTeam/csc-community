@@ -1,6 +1,6 @@
 # Curio StableCoin Governance
 
-> This repository includes Polls and Executive proposals content.
+> This directory includes Polls and Executive proposals content.
 
 Curio StableCoin Governance Application is here [https://vote-stablecoin.curioinvest.com](https://vote-stablecoin.curioinvest.com).
 

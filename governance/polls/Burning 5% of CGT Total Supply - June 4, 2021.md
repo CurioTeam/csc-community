@@ -5,9 +5,9 @@ category: Other
 discussion_link: https://t.me/CurioInvestCommunity
 vote_type: Plurality Voting
 options:
-   0: Abstain
-   1: Yes
-   2: No
+0: Abstain
+1: Yes
+2: No
 ---
 # Poll: Burning 5% of CGT Total Supply - June 4, 2021
 
